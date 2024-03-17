@@ -3,7 +3,7 @@ The Amazon Sales Dashboard is a comprehensive visualization tool designed to pro
 
 ## This dashboard provides three distinct information pages for easy navigation:
 
-   ### Sales Performance Dashboard:
+   ### Sales Performance:
    This page provides a quick overview of your recent sales activity on Amazon Seller Central, including order status 
    (cancelled, pending, shipped), sales volume, average customer reviews, and sales trends over time.
 
