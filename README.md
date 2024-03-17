@@ -1,7 +1,7 @@
 # Amazon Sales Dashboard
 The Amazon Sales Dashboard is a comprehensive visualization tool designed to provide insights into the sales performance of products on the Amazon platform. It leverages data analytics and visualization techniques to present key metrics and trends in a user-friendly interface. This dashboard is particularly useful for sellers and business owners who want to track and analyze their sales data effectively.
 
-## "This dashboard provides three distinct information pages for easy navigation:
+## This dashboard provides three distinct information pages for easy navigation:
 
    ### Sales Performance Dashboard:
    This page provides a quick overview of your recent sales activity on Amazon Seller Central, including order status 
